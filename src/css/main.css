@@ -89,7 +89,7 @@ section#about .about-wrap .about-text {
   display: inline-block;
   vertical-align: top;
   color: #757575;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 24px;
   font-weight: 400; }
 @media (max-width: 992px) {
@@ -132,7 +132,7 @@ section#experience .experience-wrap .experience-items-wrap {
 .experience-item span.item-date {
   width: 30%;
   margin-top: 10px;
-  font-size: 16px;
+  font-size: 20px;
   text-align: right;
   padding-right: 15px;
   font-weight: 300;
@@ -173,10 +173,10 @@ section#experience .experience-wrap .experience-items-wrap {
 .experience-item .item-description .item-content h3.employer-name {
   margin-top: 0; }
 .experience-item .item-description .item-content h4.position {
-  font-size: 16px; }
+  font-size: 20px; }
 .experience-item .item-description .item-content p.item-text {
   padding-top: 10px;
-  font-size: 14px;
+  font-size: 18px;
   color: #757575;
   margin-bottom: 20px; }
 @media (max-width: 992px) {
